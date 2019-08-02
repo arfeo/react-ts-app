@@ -14,7 +14,7 @@ interface State {
   isSubmitted: boolean;
 }
 
-class LoginComponent extends React.Component<Props, State> {
+class TellNameComponent extends React.Component<Props, State> {
   public state: State = {
     userName: '',
     isSubmitted: false,
@@ -53,4 +53,4 @@ class LoginComponent extends React.Component<Props, State> {
   }
 }
 
-export const Login = Inject<Props, {}>(['AppService'])(LoginComponent);
+export const TellName = Inject<Props, {}>(['AppService'])(TellNameComponent);
