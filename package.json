@@ -1,6 +1,8 @@
 {
   "name": "react-ts-app",
   "version": "1.0.0",
+  "author": "Arfeo.net",
+  "license": "MIT",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "customize-cra": "^0.4.1",
