@@ -1,3 +1,10 @@
 # react-ts-app
 
-Sample React TypeScript project.
+React TypeScript boilerplate project.
+
+* TypeScript
+* React
+* Redux
+* SASS
+* ESLint
+* stylelint
