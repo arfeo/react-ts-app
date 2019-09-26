@@ -1,6 +1,6 @@
 import { Dispatch } from 'redux';
 
-import { HttpDataSource } from '../sources/HttpDataSource';
+import { HttpDataSource } from '../utils/HttpDataSource';
 
 import { StoreInterface } from '../store/reducers';
 
