@@ -8,7 +8,7 @@ import { Store } from 'redux';
 import { TellName } from './components/TellName';
 import { SayHi } from './components/SayHi';
 
-import { InjectProvider } from './utils/inject/InjectProvider';
+import { InjectProvider } from './utils/Inject/InjectProvider';
 import { configureStore } from './store/configureStore';
 
 import './assets/styles/global.scss';

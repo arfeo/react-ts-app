@@ -2,7 +2,7 @@ import * as React from 'react';
 import { Redirect } from 'react-router';
 import { Link } from 'react-router-dom';
 
-import { Inject } from '../utils/inject/Inject';
+import { Inject } from '../utils/Inject/Inject';
 
 import { Services } from '../services';
 
